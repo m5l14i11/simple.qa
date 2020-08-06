@@ -1,2 +1,2 @@
 # simple.qa
-QA
+QnA
